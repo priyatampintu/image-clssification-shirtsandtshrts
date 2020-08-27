@@ -1,0 +1,37 @@
+1. B) Web scraping
+2. C) Requests
+3. A) Browser based applications
+4. D) Spider
+5. C) tag[‘id’]
+6. C) lxml
+7. D) to download any content from a webpage
+8. C) the list of all webelements associated with the ‘given xpath’
+9. D) ‘a’ number of pixels vertically
+
+10. A) <a>
+    B) <b>
+
+11. What is the main difference between a web scraper and a web crawler?
+Answer:- The main difference is that web crawlers usually focus on indexing the web while web scrapers extract or "scrape" data from webpages.
+         A web scraper's main purpose is to extract data from webpages. Web scrapers often have the ability to browse to different pages and follow links.
+         Though web scrapers can crawl to different pages their primary purpose is scraping the data on those pages, not indexing the web.
+         
+12. What is ‘robots.txt’ file? What is the use of ‘robots.txt’ file?
+Answer:- A robots. txt file tells search engine crawlers which pages or files the crawler can or can't request from your site. 
+         This is used mainly to avoid overloading your site with requests.It is not a mechanism for keeping a web page out of Google.
+
+13. What are static and dynamic web pages?
+Answer:- Static Web pages:
+         Static Web pages are very simple. It is written in languages such as HTML, JavaScript, CSS, etc. 
+         For static web pages when a server receives a request for a web page, then the server sends the response to the client without doing any additional process. And these web pages are seen through a web browser. 
+         In static web pages, Pages will remain the same until someone changes it manually.
+         Dynamic Web Pages:
+         Dynamic Web Pages are written in languages such as CGI, AJAX, ASP, ASP.NET, etc. 
+         In dynamic web pages, the Content of pages is different for different visitors. It takes more time to load than the static web page. 
+         Dynamic web pages are used where the information is changed frequently, for example, stock prices, weather information, etc.
+
+14. Write a python program to check whether a webpage contains a title or not.
+ Answer:- https://github.com/priyatampintu/image-clssification-shirtsandtshrts/blob/master/WEBSCRAPING_WORKSHEET_1.ipynb
+
+15. Write a python program to access the search bar and search button on images.google.com
+Answer:- https://github.com/priyatampintu/image-clssification-shirtsandtshrts/blob/master/WEBSCRAPING_WORKSHEET_1.ipynb

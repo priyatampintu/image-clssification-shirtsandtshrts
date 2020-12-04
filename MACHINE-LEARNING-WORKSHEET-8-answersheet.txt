@@ -1,0 +1,28 @@
+1. A) The mean of the Є is zero
+   C) Є is the error which is introduced because there may be some predictor variables apart from the given variable which are effecting the response variable.
+   
+2. A) It covers up the errors introduced because of the variables which are not present in        the given predictors set X but they are influencing the response variable.
+B) It also covers up the measurement errors in the response variable.
+C) It covers up the error introduced because we can never find the exact or true f(X).
+
+3. A) The distribution of random error will be Gaussian.
+   C) The random error will be dependent on X.
+
+4. A) To predict the sales of a product based on the marketing budget on different media like TV, Newspaper,Radio, etc.
+C) To predict the stock price of a company based on the previous stocks prices.
+
+5. A) The random error can be reduced by Least squares method.
+   B) The random error can be reduced if we try to fit a non-linear curve to the data.  
+
+6. B) Least Squares Method
+   A) Minimum error loss
+
+7. B) y1 = B where B is a parameter.
+   C) y1 = B* Sin(x) + C, where B and C are parameters  
+
+8. C) Cosine function of AGE
+   
+9. C) -1 < P < 0
+
+10. C) Spearman correlation coefficient = 1   
+   

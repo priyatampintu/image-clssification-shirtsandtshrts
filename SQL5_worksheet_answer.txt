@@ -1,0 +1,25 @@
+1. SELECT * From movie ;
+
+2. SELECT Title from movie order by Runtime desc limit 1;
+
+3. SELECT Title from movie order by Revenue desc limit 1;
+
+4. SELECT Title from movie group by Votes_count order by Revenue desc limit 1;
+
+5. SELECt movie.Title , movie_cast.name of the person, movie_cast.gender, movie_cast.character name, movie_cast.cast order from movie left join movie_cast on movie.Title = movie_cast.Title;
+
+6. 
+
+7. SELECT genre_id , genre_name from genre;
+
+8. SELECt movie_languages.movie_id,language.language_name ,from movie_languages left join language on movie_languages.movie_id = language.movie_id;
+
+9. 
+
+10. SELECT Title from movie order by popularity desc limit 10;
+
+11. SELECT Title,Revenue from movie order by Revenue desc limit 1 offset 2;
+
+12. SELECT Title from movie where movie_status == 'rumoured';
+
+13. 
